@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[wdd:home|Door43 (wdd)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-wdd|d43-wdd repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-wdd/archive/master.zip|d43-wdd.zip]]
+
+**Recent Changes**
+{{changes>ns = wdd}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/wdd|Ethnologue data]]
+
